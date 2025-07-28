@@ -1,6 +1,6 @@
 # Weather Data Pipeline
 
-An end-to-end, modular data pipeline to collect, process, store, and visualize weather data—ideal for real-time or historical analysis.
+An end-to-end, modular data pipeline to collect, process and store weather. Made for both real-time and historical analysis.
 
 ---
 
